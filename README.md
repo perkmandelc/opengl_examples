@@ -1,4 +1,4 @@
-# Minimal opengl examples
+# Minimal OpenGL examples
 
 These are progressive examples, each builds on top of the previous one.
 
