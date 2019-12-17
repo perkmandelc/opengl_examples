@@ -18,6 +18,6 @@ Specify triangles with VBOs.
 
 Render the triangles into a texture and then display the rendered texture.
 
-##5. MSAA
+## 5. MSAA
 
 Setup multisampling for the FBOs.
